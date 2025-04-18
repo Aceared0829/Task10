@@ -158,6 +158,9 @@
     <ClCompile Include="Circle.ixx" />
     <ClCompile Include="Task10.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="tsconfig.json"/>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
